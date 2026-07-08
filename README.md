@@ -142,3 +142,4 @@ docker compose --profile tools run --rm spark-job
 - **hdfs-init échoue** : attendre que les 3 datanodes soient `healthy`, puis relancer la commande.
 - **Réinitialiser le cluster** : `docker compose down -v` puis relancer les étapes.
 
+<img width="938" height="400" alt="image" src="https://github.com/user-attachments/assets/fd95f073-5f0b-4968-b32c-959603433482" />
