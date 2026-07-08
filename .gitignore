@@ -1,0 +1,9 @@
+# Données générées localement
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+*.log
